@@ -3,4 +3,3 @@ This is an amazing project that we've built using Python and Python GUI, this is
 
 
 Download the mini project folder attached in the repository and execute the hgf.py python file for the application and run
-Create a new sub folder in the mini project folder and name it 'svf' 
